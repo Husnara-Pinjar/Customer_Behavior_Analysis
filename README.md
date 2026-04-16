@@ -25,43 +25,43 @@ Description: The dataset contains -
 ### 📌Steps:
 1.	Data Loading:
    
-  o	Imported dataset using Python.
+          o	Imported dataset using Python.
   
-  o	Performed initial inspection of structure and data types.
+          o	Performed initial inspection of structure and data types.
   
 2.	Exploratory Data Analysis (EDA):
    
-  o	Analyzed distributions, trends, and relationships.
+          o	Analyzed distributions, trends, and relationships.
   
-  o	Identified missing values and outliers.
+          o	Identified missing values and outliers.
   
 3.	Data Cleaning:
    
-  o	Handled missing values.
+          o	Handled missing values.
   
-  o	Removed duplicates and corrected inconsistencies.
+          o	Removed duplicates and corrected inconsistencies.
   
-  o	Standardized formats and data types.
+          o	Standardized formats and data types.
   
 4.	SQL Analysis:
    
-  o	Loaded cleaned data into relational databases.
+          o	Loaded cleaned data into relational databases.
   
-  o	Wrote queries for aggregation, filtering, and joins.
+          o	Wrote queries for aggregation, filtering, and joins.
   
-  o	Extracted insights using PostgreSQL.
+          o	Extracted insights using PostgreSQL.
   
 5.	Dashboard Creation:
    
-  o	Built interactive dashboards in Power BI.
+          o	Built interactive dashboards in Power BI.
   
-  o	Included KPIs, charts and filters for user interaction.
+          o	Included KPIs, charts and filters for user interaction.
   
 6.	Reporting & Presentation:
    
-  o	Created a detailed analytical report.
+          o	Created a detailed analytical report.
   
-  o	Developed a presentation using Gamma to communicate findings.
+          o	Developed a presentation using Gamma to communicate findings.
   
 ### 📈Dashboard:
 
